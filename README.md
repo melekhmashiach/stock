@@ -1,2 +1,2 @@
 # stock
-(https://melekhmashiach.github.io/stock/
+https://melekhmashiach.github.io/stock/
